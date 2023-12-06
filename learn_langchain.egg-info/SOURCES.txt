@@ -1,0 +1,7 @@
+README.md
+setup.py
+learn_langchain.egg-info/PKG-INFO
+learn_langchain.egg-info/SOURCES.txt
+learn_langchain.egg-info/dependency_links.txt
+learn_langchain.egg-info/requires.txt
+learn_langchain.egg-info/top_level.txt

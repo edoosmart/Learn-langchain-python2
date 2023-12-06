@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: learn-langchain
+Version: 1.0
+Summary: Learn langchain package python
+Requires-Dist: langchain
+Requires-Dist: openai
